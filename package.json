@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "flowbite": "^2.3.0",
+    "flowbite-datepicker": "^1.2.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
